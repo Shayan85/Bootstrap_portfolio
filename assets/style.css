@@ -67,3 +67,9 @@ background-color: #4aaaa5 !important;
 margin: 0 0 20px 0;
 }
 
+.pics{
+    float: left;
+    width: 260px;
+    margin: 25px;
+  }
+
