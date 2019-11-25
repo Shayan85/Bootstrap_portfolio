@@ -69,7 +69,22 @@ margin: 0 0 20px 0;
 
 .pics{
     float: left;
-    width: 260px;
-    margin: 25px;
+    width: 40%;
+    margin: 10px;
   }
-
+ 
+h3{
+   font-family: Georgia, Times, "Times New Roman", serif;
+   color: #ffffff;
+   margin-bottom: 0px;
+   width: 100%;
+  z-index: 6;
+  background-color: #4aaaa5;
+  text-align: center;
+  overflow: auto;
+  bottom: 55px;
+  position: relative;
+  padding: 5px;
+  line-height: 25px;
+  }
+  
