@@ -1,5 +1,5 @@
 body{
-    background-image: url(./assets/pattern.png);
+    background-image: url('assets/pattern.png');
     background-repeat: repeat;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
