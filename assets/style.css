@@ -88,3 +88,7 @@ h3{
   line-height: 25px;
   }
   
+  @media screen and (max-width: 768px) {
+    body {
+      background-image: url("assets/pattern-background.jpeg");
+      margin: 20px;
